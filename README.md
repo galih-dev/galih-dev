@@ -1,25 +1,39 @@
 # Hi, I'm Galih Noor Firdaus 👋
 
 Just built my first mobile app. 📱 Exploring the tech world one line of code at a time. ☕  
-I'm a Front-End & Mobile Development enthusiast who loves crafting clean, responsive, and interactive interfaces.
+I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interfaces and exploring low-level programming.
 
 ---
 
 ### 💻 What I'm Working With
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools & Tech:** Git, GitHub, VS Code, Vercel
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript, C++
+- **Frameworks & Tools:** Expo Go, Git, GitHub, VS Code, Vercel
 
 ---
 
-### 🚀 Projects
-- **KuliahKu** - Android App To Manage Everyday Life For University Student
-- **** - Responsive Web Layout & Design
+### 🚀 Featured Projects
+- **KuliahKu** 📱 
+  - *Android App to manage everyday life for university students.*
+  - **Tech Stack:** TypeScript, JavaScript, HTML, CSS, Expo Go, Vercel
+  - *My flagship project built with React Native / Expo.*
+
+- **personaliarudal2026** 🌐 
+  - *Responsive Web Layout & Design (My 2nd Web Project - 2026).*
+
+- **sekad-family** 🌐 
+  - *Responsive Web Layout & Design (My 1st Web Project - 2025).*
 
 ---
 
 ### 📫 Let's Connect!
-- 📧 **Email:** [Isi Alamat Email Kamu]
-- 💼 **LinkedIn:** [Isi Link Profile LinkedIn Kamu]## Hi there 👋
+- **GitHub:** https://github.com/galih-dev
+
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** galihnoor364@gmail.com
+
 
 <!--
 **galih-dev/galih-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
