@@ -11,12 +11,6 @@ I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interface
 
 ---
 
-![Galih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galih-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galih-dev&layout=compact&theme=tokyonight)
-
----
-
 ### 🎓 Education
 - **UPN "VETERAN" Jawa Timur** — S1 Informatika *(2026 – Present)*
   - Focus: Software Engineering & Web Technologies
