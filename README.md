@@ -11,6 +11,12 @@ I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interface
 
 ---
 
+### 🎓 Education
+- **UPN "VETERAN" Jawa Timur** — S1 Informatika *(2026 – Present)*
+  - Focus: Software Engineering & Web Technologies
+
+---
+
 ### 🚀 Featured Projects
 - **KuliahKu** 📱 
   - *Android App to manage everyday life for university students.*
@@ -27,11 +33,6 @@ I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interface
 
 ### 📫 Let's Connect!
 - **GitHub:** https://github.com/galih-dev
-
-
----
-
-### 📫 Let's Connect!
 - 📧 **Email:** galihnoor364@gmail.com
 
 
