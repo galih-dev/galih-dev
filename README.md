@@ -11,10 +11,9 @@ I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interface
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galih-dev&show_icons=true&theme=tokyonight" alt="Galih's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galih-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
+![Galih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galih-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galih-dev&layout=compact&theme=tokyonight)
 
 ---
 
