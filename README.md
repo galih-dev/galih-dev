@@ -29,7 +29,7 @@ I'm a Front-End & Tech enthusiast who loves crafting clean, responsive interface
 ### 🚀 Featured Projects
 - **KuliahKu** 📱 
   - *Android App to manage everyday life for university students.*
-  - **Tech Stack:** TypeScript, JavaScript, HTML, CSS, Expo Go, Vercel
+  - **Tech Stack:** TypeScript, JavaScript, HTML, CSS, Expo Go, Vercel, FIrebase
   - *My flagship project built with React Native / Expo.*
 
 - **personaliarudal2026** 🌐 
